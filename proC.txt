@@ -1,0 +1,9 @@
+
+ID: 111
+Name: shelly
+Last-Name: niazov
+Address: sdsd
+Phone: 052-4001636
+Age: 25.000000
+Average: 80.000000
+Date of studies: 05.05
